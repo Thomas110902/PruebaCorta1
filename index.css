@@ -37,3 +37,44 @@ footer{
     height: 5rem;
     
 }
+.fila{
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    padding: 2rem;
+    gap: 2rem;
+    
+}
+.bloque1{
+    border: 1px solid black;
+    width: 12rem;
+    height: 12rem;
+}
+.bloque2{
+    border: 1px solid black;
+    width: 12rem;
+    height: 12rem;
+    padding-left: 2rem;
+}
+.bloque3{
+    border: 1px solid black;
+    width: 12rem;
+    height: 12rem;
+}
+.bloque4{
+    border: 1px solid black;
+    width: 12rem;
+    height: 12rem;
+}
+.bloque5{
+    border: 1px solid black;
+    width: 12rem;
+    height: 12rem;
+}
+.bloque6{
+    border: 1px solid black;
+    width: 12rem;
+    height: 12rem;
+}
+
+
