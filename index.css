@@ -2,7 +2,7 @@
     width: 40rem;
     height: 65rem;
     border: 1px solid black;
-    display: flex;
+    
     margin: auto;
     margin-top: 0.6rem;
 }
@@ -10,6 +10,17 @@ header{
     width: 40rem;
     height: 8rem;
     border: 1px solid black;
+    display: flex;
+    align-items: center;
+    gap: 1 rem;
+    padding-left: 4rem;
+    font-family: monospace;
+}
+span{
+    padding: 1rem 1rem;
+    margin-top: 1rem;
+    font-weight: 600;
+    font-size: 2rem;
 }
 section{
     width: 40rem;
@@ -20,4 +31,9 @@ footer{
     width: 40rem;
     height: 9rem;
     border: 1px solid black;
+}
+.imagen{
+    width: 5rem;
+    height: 5rem;
+    
 }
