@@ -76,5 +76,15 @@ footer{
     width: 12rem;
     height: 12rem;
 }
+a{
+    display: flex;
+    font-size: 3rem;
+    color: black;
+    width: 10px;
+    height: 15px;
+    border: 2px solid black;
+    padding-left: 12rem;
+    padding-top: 2rem;
+}
 
 
