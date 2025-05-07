@@ -1,0 +1,8 @@
+#pantalla{
+    width: 40rem;
+    height: 65rem;
+    border: 2px solid black;
+    display: flex;
+    margin: auto;
+    margin-top: 0.6rem;
+}
